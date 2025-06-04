@@ -30,12 +30,12 @@ export default StyleSheet.create({
     flex: 1,
   },
   nameText: {
-    fontSize: 18,
+    fontSize: 10,
     fontWeight: '600',
     color: '#1a1a1a',
   },
   emailText: {
-    fontSize: 12,
+    fontSize: 7,
     color: '#777',
     marginTop: 2,
   },
